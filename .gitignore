@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Buck
+/.buckd/
+/buck-out/
+.buckconfig.local
+BUCKAROO_DEPS
